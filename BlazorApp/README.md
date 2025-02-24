@@ -1,0 +1,6 @@
+- Program.cs is the entry point for the app that starts the server and where you configure the app services and middleware.
+- App.razor is the root component for the app.
+- Routes.razor configures the Blazor router.
+- The Components/Pages directory contains some example web pages for the app.
+- BlazorApp.csproj defines the app project and its dependencies and can be viewed by double-clicking the project node in the Solution Explorer.
+- The launchSettings.json file inside the Properties directory defines different profile settings for the local development environment. A port number is automatically assigned at project creation and saved on this file.
